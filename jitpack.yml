@@ -1,1 +1,3 @@
+jdk:
+  - openjdk17
 module: subdirectory-name
